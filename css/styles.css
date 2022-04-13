@@ -47,6 +47,10 @@ body {
     border-bottom-color: white;
 }
 
+.input-correo:focus, .input-password:focus {
+    outline:none;
+}
+
 .ctn-btn {
     display: flex;
 }
